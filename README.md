@@ -2,7 +2,7 @@ Bienvenue à vous !
 
 Pour un aperçu de ma page web cliquez sur :
 
-https://github.com/PREGNONJAURES/my_portfolios.git
+file:///C:/my_page/mapage/index.html
 
 
 Merci pour votre visite ! 😊
